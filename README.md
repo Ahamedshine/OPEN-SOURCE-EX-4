@@ -1,8 +1,8 @@
 # OPEN-SOURCE-EX-4
 
-## NAME : DILLI BABU K
-## REG NO : 212224110015
-## DEPT : CSE(IOT)
+## NAME : ahamed shine
+## REG NO : 212224040017
+## DEPT : CSE
 # STEPD INVOLVED :
 ### STEP 1 : sudo mkdir -p /common/admin
 ### STEP 2 : sudo chown root:admin /common/admin
